@@ -1,0 +1,1 @@
+interface IRepository : ICommands<Book>, IQueries<Book> {}

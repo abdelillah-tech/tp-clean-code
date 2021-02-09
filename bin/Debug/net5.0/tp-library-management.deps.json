@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "tp-library-management/1.0.0": {
+        "runtime": {
+          "tp-library-management.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tp-library-management/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

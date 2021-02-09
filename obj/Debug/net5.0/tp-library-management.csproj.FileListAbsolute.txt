@@ -1,0 +1,16 @@
+C:\Users\aghomari\Documents\tp-library-management\bin\Debug\net5.0\tp-library-management.exe
+C:\Users\aghomari\Documents\tp-library-management\bin\Debug\net5.0\tp-library-management.deps.json
+C:\Users\aghomari\Documents\tp-library-management\bin\Debug\net5.0\tp-library-management.runtimeconfig.json
+C:\Users\aghomari\Documents\tp-library-management\bin\Debug\net5.0\tp-library-management.runtimeconfig.dev.json
+C:\Users\aghomari\Documents\tp-library-management\bin\Debug\net5.0\tp-library-management.dll
+C:\Users\aghomari\Documents\tp-library-management\bin\Debug\net5.0\ref\tp-library-management.dll
+C:\Users\aghomari\Documents\tp-library-management\bin\Debug\net5.0\tp-library-management.pdb
+C:\Users\aghomari\Documents\tp-library-management\obj\Debug\net5.0\tp-library-management.csprojAssemblyReference.cache
+C:\Users\aghomari\Documents\tp-library-management\obj\Debug\net5.0\tp-library-management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aghomari\Documents\tp-library-management\obj\Debug\net5.0\tp-library-management.AssemblyInfoInputs.cache
+C:\Users\aghomari\Documents\tp-library-management\obj\Debug\net5.0\tp-library-management.AssemblyInfo.cs
+C:\Users\aghomari\Documents\tp-library-management\obj\Debug\net5.0\tp-library-management.csproj.CoreCompileInputs.cache
+C:\Users\aghomari\Documents\tp-library-management\obj\Debug\net5.0\tp-library-management.dll
+C:\Users\aghomari\Documents\tp-library-management\obj\Debug\net5.0\ref\tp-library-management.dll
+C:\Users\aghomari\Documents\tp-library-management\obj\Debug\net5.0\tp-library-management.pdb
+C:\Users\aghomari\Documents\tp-library-management\obj\Debug\net5.0\tp-library-management.genruntimeconfig.cache

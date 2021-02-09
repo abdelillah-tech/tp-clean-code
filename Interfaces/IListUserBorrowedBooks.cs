@@ -1,0 +1,1 @@
+interface IListUserBorrowedBooks : IQueries<BorrowedBook>, ICommands<BorrowedBook> {}
